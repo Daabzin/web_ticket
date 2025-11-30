@@ -21,7 +21,7 @@ O sistema opera com três interfaces principais: Totem (emissão de senhas), Pai
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/SEU_USUARIO/web_ticket.git](https://github.com/SEU_USUARIO/web_ticket.git)
+    git clone [https://github.com/Daabzin/web_ticket.git](https://github.com/Daabzin/web_ticket.git)
     cd web_ticket
     ```
 
