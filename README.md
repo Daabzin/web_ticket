@@ -20,27 +20,24 @@ O sistema opera com três interfaces: Totem (emissão de senhas), Painel (visual
 ### Pré-requisitos
 
 * Node.js e npm (ou yarn) instalados.
-
 ### Instalação e Execução
 
-1.  **Clone o repositório:**
+1. Clone o repositório:
     ```bash
-    git clone [https://github.com/Daabzin/web_ticket.git](https://github.com/Daabzin/web_ticket.git)
+    git clone https://github.com/Daabzin/web_ticket.git
     cd web_ticket
     ```
 
-2.  **Instale as dependências:**
+2. Instale as dependências:
     ```bash
     npm install
     ```
 
-3.  **Inicie o servidor de desenvolvimento:**
+3. Inicie o servidor de desenvolvimento:
     ```bash
     npm start
     ```
-    O aplicativo será aberto em `http://localhost:3000`.
-
----
+    O aplicativo será aberto em http://localhost:3000.
 
 ## Funcionalidades Chave Implementadas
 
